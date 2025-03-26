@@ -56,6 +56,12 @@ section {
 }
 
 
+.justificar {
+    text-align: justify;
+}
+
+
+
 .botao-inicio {
     background-color: var(--laranja-claro);
     border-radius: 30px;
